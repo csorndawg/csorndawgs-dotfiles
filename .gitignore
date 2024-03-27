@@ -2,8 +2,9 @@
 **.idea
 **/*.idea
 
-*temp*
+*temp
 *tmp
 
 ignore**
 *.ig
+**/*.ig
