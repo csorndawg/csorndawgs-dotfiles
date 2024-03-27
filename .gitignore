@@ -1,0 +1,9 @@
+*.idea
+**.idea
+**/*.idea
+
+*temp*
+*tmp
+
+ignore**
+*.ig
